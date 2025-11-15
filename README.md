@@ -1,7 +1,5 @@
-
-# Guía rápida: instalar micro-ROS en ESP32‑S3 (Ubuntu + ROS 2 ya instalado)
-
-Resumen: usar ARduino IDE + componente micro-ROS. Se asume Ubuntu con ROS 2 ya instalado y funcionando.
+# FR2025-1 Guia micro-ros
+Guía rápida: instalar micro-ROS en ESP32‑S3 (Ubuntu + ROS 2 ya instalado)
 
 Cargaremos varaibles de entorno: USER, ROS_DISTRO
 ```bash
